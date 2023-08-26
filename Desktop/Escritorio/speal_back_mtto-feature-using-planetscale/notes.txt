@@ -1,0 +1,50 @@
+
+
+TAREAS IMPORTANTES
+
+Traer Ordenes con los filtros automaticos
+Traer reportes con filtro sautomaticos
+
+PENDIENTE
+
+JUAN
+    Creacion de CRUD ordenes
+    Guardado de actividades
+    Consulta actividades
+    Validacion de permisos (Funcion que finalmente se quito por que no funcionaba)
+    Validar al eliminar un modelo o set que no tenga hijos de los contrario debe eliminar primero los hijos
+    Base de datos PDN y Develop
+    Funcion de copy paste de DB_PDN a DB_Dev
+
+ANDRES
+    Ver crear editar y eliminar modelos y equipos
+    Creacion de orden con sus caracteristicas
+        1.Crear formulario uno para crear
+            Date - Fecha por defecto del sistema(FECHA), 
+            Description - Descripcion general(textarea), 
+            UserId - Id del usuario actual por defecto, 
+            SupportId - Tecnico(Seleccionar un user modal), 
+            SellerId - Vendedor(Seleccionar un user modal),
+            TechId - Ingeniero o lider tecnico(Seleccionar un user modal), 
+            ClientId - Cliente(Seleccionar empresa modal)
+        2.Formulario para editar
+    Vista actividades
+    Aplicacion movil vistas
+        Login
+        Listado equipos
+        Listado ordenes
+        Formulario
+
+REALIZADO
+
+
+
+
+
+
+
+
+
+
+
+

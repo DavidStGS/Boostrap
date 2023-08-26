@@ -1,0 +1,16 @@
+LastName	FirstName	Email	Position	Phone	CompanyId	Image	Rol	Password
+Admin	Speal	info@speal-intl.com	Admin	3168787885	1	https://picsum.photos/seed/picsum/500/506	admin	PASSADMIN
+User	Test	info@user1.com	Cargo	0	1	https://picsum.photos/seed/picsum/500/506	editor	PASSUSER
+User	Test	info@user2.com	Cargo	1111111111	1	https://picsum.photos/seed/picsum/500/507	colaborator	PASSUSER
+User	Test	info@user3.com	Cargo	2222222222	2	https://picsum.photos/seed/picsum/500/508	client_admin	PASSUSER
+User	Test	info@user4.com	Cargo	3333333333	2	https://picsum.photos/seed/picsum/500/509	client_colaborator	PASSUSER
+User	Test	info@user5.com	Cargo	4444444444	2	https://picsum.photos/seed/picsum/500/510	client_colaborator	PASSUSER
+User	Test	info@user6.com	Cargo	5555555555	2	https://picsum.photos/seed/picsum/500/511	client_visor	PASSUSER
+User	Test	info@user7.com	Cargo	6666666666	2	https://picsum.photos/seed/picsum/500/512	client_visor	PASSUSER
+User	Test	info@user8.com	Cargo	7777777777	3	https://picsum.photos/seed/picsum/500/513	client_admin	PASSUSER
+User	Test	info@user9.com	Cargo	8888888888	3	https://picsum.photos/seed/picsum/500/514	client_colaborator	PASSUSER
+User	Test	info@user10.com	Cargo	9999999999	3	https://picsum.photos/seed/picsum/500/515	client_visor	PASSUSER
+User	Test	info@user11.com	Cargo	1010101010	4	https://picsum.photos/seed/picsum/500/516	client_admin	PASSUSER
+User	Test	info@user12.com	Cargo	1212121212	5	https://picsum.photos/seed/picsum/500/517	client_admin	PASSUSER
+User	Test	info@user13.com	Cargo	1313131313	6	https://picsum.photos/seed/picsum/500/518	client_admin	PASSUSER
+User	Test	info@user14.com	Cargo	1414141414	7	https://picsum.photos/seed/picsum/500/519	client_admin	PASSUSER

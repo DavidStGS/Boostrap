@@ -1,0 +1,26 @@
+const activities = {
+    new_company: 'Nueva compañia',
+    edit_company: 'Edicion de compañia',
+    delete_company: 'Eliminacion de compañia',
+    new_user: 'Nuevo usuario',
+    edit_user: 'Edicion de usuario',
+    delete_user: 'Eliminacion de usuario',
+    new_model: 'Nuevo modelo',
+    edit_model: 'Edicion de modelo',
+    delete_model: 'Eliminacion de modelo',
+    new_equipment: 'Nuevo equipo',
+    edit_equipment: 'Edicion de equipo',
+    delete_equipment: 'Eliminacion de equipo',
+    new_report: 'Nuevo reporte',
+    edit_report: 'Edicion de reporte',
+    delete_report: 'Eliminacion de reporte',
+    new_order: 'Nueva orden',
+    edit_order: 'Edicion de orden',
+    delete_order: 'Eliminacion de orden',
+    new_file: 'Nuevo archivo',
+    edit_file: 'Edicion archivo',
+    delete_file: 'Eliminacion archivo',
+    new_sync: 'Nueva sincronizacion',
+}
+
+module.exports = { activities }

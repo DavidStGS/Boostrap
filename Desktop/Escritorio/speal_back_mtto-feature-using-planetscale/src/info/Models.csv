@@ -1,0 +1,29 @@
+Model	Reference1	Reference2	LimitLife	Frecuency	Capacity	Unit	Reload	Description	Image	ParentId	ProviderId	MakerId
+Model 1	Reference1	Ref2	100000	3000	100	CFM	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500		10	11
+Model 2	Reference2	Ref2	100000	3000	200	PSI	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500		10	11
+Model 3	Reference3	Ref2	100000	3000	300	M3	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500		10	11
+Model 4	Reference4	Ref2	100000	3000	400	CFM	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500		10	11
+Model 5	Reference5	Ref2	100000	3000	500	PSI	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500		10	11
+Model 6	Reference6	Ref2	100000	3000	600	M4	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500		10	11
+Model 7	Reference7	Ref2	100000	3000	700	CFM	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	1	10	11
+Model 8	Reference8	Ref2	100000	3000	800	PSI	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	1	10	11
+Model 9	Reference9	Ref2	100000	3000	900	M3	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	1	10	11
+Model 10	Reference10	Ref2	100000	3000	1000	CFM	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	2	10	11
+Model 11	Reference11	Ref2	100000	3000	1100	PSI	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	2	10	11
+Model 12	Reference12	Ref2	100000	3000	1200	M3	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	7	10	11
+Model 13	Reference13	Ref2	100000	3000	1300	CFM	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	7	10	11
+Model 14	Reference14	Ref2	100000	3000	1400	PSI	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	8	10	11
+Model 15	Reference15	Ref2	100000	3000	1500	M3	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	8	10	11
+Model 16	Reference16	Ref2	100000	3000	1600	CFM	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	9	10	11
+Model 17	Reference17	Ref2	100000	3000	1700	PSI	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	12	10	11
+Model 18	Reference18	Ref2	100000	3000	1800	M3	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	12	10	11
+Model 19	Reference19	Ref2	100000	3000	1900	CFM	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	12	10	11
+Model 20	Reference20	Ref2	100000	3000	2000	PSI	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	13	10	11
+Model 21	Reference21	Ref2	100000	3000	2100	M3	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	13	10	11
+Model 22	Reference22	Ref2	100000	3000	2200	CFM	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	14	10	11
+Model 23	Reference23	Ref2	100000	3000	2300	PSI	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	14	10	11
+Model 24	Reference24	Ref2	100000	3000	2400	M3	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	15	10	11
+Model 25	Reference25	Ref2	100000	3000	2500	CFM	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	16	10	11
+Model 26	Reference26	Ref2	100000	3000	2600	PSI	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	16	10	11
+Model 27	Reference27	Ref2	100000	3000	2700	M3	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500		10	11
+Model 28	Reference28	Ref2	100000	3000	2800	PSI	0	Descripcion del modelo	https://picsum.photos/seed/picsum/500/500	27	10	11
